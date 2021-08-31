@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ClassMeet</string>
+    <string name="text1">Batch 1</string>
+    <string name="text2">Batch 2</string>
+    <string name="text3">Batch 3</string>
+    <string name="text4">Batch 4</string>
+</resources>
